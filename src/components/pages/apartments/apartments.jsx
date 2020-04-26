@@ -9,9 +9,9 @@ class ApartmentsPage extends Component {
     render() {
         return (
             <div className={`apartments-page-wrap`}>
-                <Breadcrumb title={'Apartments'}/>
+                <Breadcrumb title={'Strategy'}/>
                 <Helmet>
-                    <title>MaisonCo | Apartments Page</title>
+                    <title>Redstone Advisors | Strategy</title>
                 </Helmet>
                 <ContentWrap isBoxed={true}>
                     <ApartmentArchiveBlock number={9}/>
