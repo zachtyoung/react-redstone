@@ -9,15 +9,13 @@ class FAQPage extends Component {
         return (
             <div className="faq-wrap">
                 <Helmet>
-                    <title>MaisonCo | FAQ's Page</title>
+                    <title>Redstone Advisors | FAQ's</title>
                 </Helmet>
                 <Breadcrumb title={`FAQ's`}/>
                 <div className="section-wrapper mt-5">
                     <div className="container">
                         <h3 className="text-uppercase text-center">Get all the answers to the most
                             frequently asked questions (FAQs) </h3>
-                        <h3 className="text-uppercase text-center">regarding visit, services, IntelligentHome, and much, much
-                            more.</h3>
                     </div>
                 </div>
                 <div className="section-wrapper">
@@ -27,48 +25,36 @@ class FAQPage extends Component {
                         <AccordionItem>
                             <AccordionItemHeading>
                                 <AccordionItemButton>
-                                    What accomodations are made for visitors with disabilities?
+                                    Lorem ipsum dolor, sit amet consectetur adipisicing.
                                 </AccordionItemButton>
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <p>
-                                    We have handicapped restrooms on the 86th Floor Observatory and also have lowered viewing walls and binoculars. Service dogs are allowed throughout the building. Motorized and non-motorized wheelchairs are permitted. The 86th Floor has ramps to make getting around easier and lowered viewing walls so that visitors in chairs can still take in the view. The 102nd Floor currently has a higher wall, but we are working to make it more accessible to all our visitors.
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, odit unde numquam reiciendis error amet provident architecto cumque impedit animi, deleniti sunt tenetur, accusantium expedita magnam magni mollitia vitae sit.
                                 </p>
                             </AccordionItemPanel>
                         </AccordionItem>
                         <AccordionItem>
                             <AccordionItemHeading>
                                 <AccordionItemButton>
-                                    What security precautions do you take?
+                                    Lorem ipsum dolor sit amet.
                                 </AccordionItemButton>
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <p>
-                                    We have handicapped restrooms on the 86th Floor Observatory and also have lowered viewing walls and binoculars. Service dogs are allowed throughout the building. Motorized and non-motorized wheelchairs are permitted. The 86th Floor has ramps to make getting around easier and lowered viewing walls so that visitors in chairs can still take in the view. The 102nd Floor currently has a higher wall, but we are working to make it more accessible to all our visitors.
+                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim laudantium minus debitis ipsum asperiores molestias, cupiditate repellendus alias? Cumque, commodi provident magnam rem a soluta.
                                 </p>
                             </AccordionItemPanel>
                         </AccordionItem>
                         <AccordionItem>
                             <AccordionItemHeading>
                                 <AccordionItemButton>
-                                    Can I bring a tripod for my camera?
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 </AccordionItemButton>
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <p>
-                                    We have handicapped restrooms on the 86th Floor Observatory and also have lowered viewing walls and binoculars. Service dogs are allowed throughout the building. Motorized and non-motorized wheelchairs are permitted. The 86th Floor has ramps to make getting around easier and lowered viewing walls so that visitors in chairs can still take in the view. The 102nd Floor currently has a higher wall, but we are working to make it more accessible to all our visitors.
-                                </p>
-                            </AccordionItemPanel>
-                        </AccordionItem>
-                        <AccordionItem>
-                            <AccordionItemHeading>
-                                <AccordionItemButton>
-                                    What security precautions do you take?
-                                </AccordionItemButton>
-                            </AccordionItemHeading>
-                            <AccordionItemPanel>
-                                <p>
-                                    We have handicapped restrooms on the 86th Floor Observatory and also have lowered viewing walls and binoculars. Service dogs are allowed throughout the building. Motorized and non-motorized wheelchairs are permitted. The 86th Floor has ramps to make getting around easier and lowered viewing walls so that visitors in chairs can still take in the view. The 102nd Floor currently has a higher wall, but we are working to make it more accessible to all our visitors.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio consequatur aliquam quas facilis necessitatibus hic officiis illum neque reprehenderit dolore! Blanditiis deserunt, quibusdam reprehenderit odio quos quasi dolore nobis harum eum, tempora ipsam aut magnam maxime, error perferendis sunt distinctio!
                                 </p>
                             </AccordionItemPanel>
                         </AccordionItem>
@@ -79,54 +65,54 @@ class FAQPage extends Component {
                     <div className="container">
                         <h2 className="text-uppercase text-center text-primary mb-5">OTHER QUESTIONS</h2>
                         <Accordion>
-                            <AccordionItem>
-                                <AccordionItemHeading>
-                                    <AccordionItemButton>
-                                        What Women Want in the Restroom ?
-                                    </AccordionItemButton>
-                                </AccordionItemHeading>
-                                <AccordionItemPanel>
-                                    <p>
-                                        We have handicapped restrooms on the 86th Floor Observatory and also have lowered viewing walls and binoculars. Service dogs are allowed throughout the building. Motorized and non-motorized wheelchairs are permitted. The 86th Floor has ramps to make getting around easier and lowered viewing walls so that visitors in chairs can still take in the view. The 102nd Floor currently has a higher wall, but we are working to make it more accessible to all our visitors.
-                                    </p>
-                                </AccordionItemPanel>
-                            </AccordionItem>
-                            <AccordionItem>
-                                <AccordionItemHeading>
-                                    <AccordionItemButton>
-                                        What Condo Amenities Do Today's Buyers Desire Most?
-                                    </AccordionItemButton>
-                                </AccordionItemHeading>
-                                <AccordionItemPanel>
-                                    <p>
-                                        We have handicapped restrooms on the 86th Floor Observatory and also have lowered viewing walls and binoculars. Service dogs are allowed throughout the building. Motorized and non-motorized wheelchairs are permitted. The 86th Floor has ramps to make getting around easier and lowered viewing walls so that visitors in chairs can still take in the view. The 102nd Floor currently has a higher wall, but we are working to make it more accessible to all our visitors.
-                                    </p>
-                                </AccordionItemPanel>
-                            </AccordionItem>
-                            <AccordionItem>
-                                <AccordionItemHeading>
-                                    <AccordionItemButton>
-                                        What Amenities are People looking for in a Campground?
-                                    </AccordionItemButton>
-                                </AccordionItemHeading>
-                                <AccordionItemPanel>
-                                    <p>
-                                        We have handicapped restrooms on the 86th Floor Observatory and also have lowered viewing walls and binoculars. Service dogs are allowed throughout the building. Motorized and non-motorized wheelchairs are permitted. The 86th Floor has ramps to make getting around easier and lowered viewing walls so that visitors in chairs can still take in the view. The 102nd Floor currently has a higher wall, but we are working to make it more accessible to all our visitors.
-                                    </p>
-                                </AccordionItemPanel>
-                            </AccordionItem>
-                            <AccordionItem>
-                                <AccordionItemHeading>
-                                    <AccordionItemButton>
-                                        What Amenities Should Landlords Provide to Their Tenants?
-                                    </AccordionItemButton>
-                                </AccordionItemHeading>
-                                <AccordionItemPanel>
-                                    <p>
-                                        We have handicapped restrooms on the 86th Floor Observatory and also have lowered viewing walls and binoculars. Service dogs are allowed throughout the building. Motorized and non-motorized wheelchairs are permitted. The 86th Floor has ramps to make getting around easier and lowered viewing walls so that visitors in chairs can still take in the view. The 102nd Floor currently has a higher wall, but we are working to make it more accessible to all our visitors.
-                                    </p>
-                                </AccordionItemPanel>
-                            </AccordionItem>
+                        <AccordionItem>
+                            <AccordionItemHeading>
+                                <AccordionItemButton>
+                                    Lorem ipsum dolor sit amet consectetur.
+                                </AccordionItemButton>
+                            </AccordionItemHeading>
+                            <AccordionItemPanel>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, odit unde numquam reiciendis error amet provident architecto cumque impedit animi, deleniti sunt tenetur, accusantium expedita magnam magni mollitia vitae sit.
+                                </p>
+                            </AccordionItemPanel>
+                        </AccordionItem>
+                        <AccordionItem>
+                            <AccordionItemHeading>
+                                <AccordionItemButton>
+                                   Lorem ipsum dolor sit.
+                                </AccordionItemButton>
+                            </AccordionItemHeading>
+                            <AccordionItemPanel>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, odit unde numquam reiciendis error amet provident architecto cumque impedit animi, deleniti sunt tenetur, accusantium expedita magnam magni mollitia vitae sit.
+                                </p>
+                            </AccordionItemPanel>
+                        </AccordionItem>
+                        <AccordionItem>
+                            <AccordionItemHeading>
+                                <AccordionItemButton>
+                                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                </AccordionItemButton>
+                            </AccordionItemHeading>
+                            <AccordionItemPanel>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, odit unde numquam reiciendis error amet provident architecto cumque impedit animi, deleniti sunt tenetur, accusantium expedita magnam magni mollitia vitae sit.
+                                </p>
+                            </AccordionItemPanel>
+                        </AccordionItem>
+                        <AccordionItem>
+                            <AccordionItemHeading>
+                                <AccordionItemButton>
+                                    Lorem, ipsum dolor.
+                                </AccordionItemButton>
+                            </AccordionItemHeading>
+                            <AccordionItemPanel>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, odit unde numquam reiciendis error amet provident architecto cumque impedit animi, deleniti sunt tenetur, accusantium expedita magnam magni mollitia vitae sit.
+                                </p>
+                            </AccordionItemPanel>
+                        </AccordionItem>
                         </Accordion>
                     </div>
                 </div>

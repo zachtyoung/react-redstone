@@ -48,12 +48,11 @@ class Root extends React.Component {
                                     <Route path={`${process.env.PUBLIC_URL}/about-us`} component={AboutPage}/>
                                     <Route path={`${process.env.PUBLIC_URL}/our-team`} component={OurTeamPage}/>
                                     <Route path={`${process.env.PUBLIC_URL}/our-services`} component={OurServicesPage}/>
-                                    <Route path={`${process.env.PUBLIC_URL}/typography`} component={TypographyPage}/>
                                     <Route path={`${process.env.PUBLIC_URL}/faqs`} component={FAQPage}/>
                                     <Route path={`${process.env.PUBLIC_URL}/contact-us`} component={ContactPage}/>
-                                    <Route path={`${process.env.PUBLIC_URL}/the-building`} component={TheBuildingPage}/>
+                                    <Route path={`${process.env.PUBLIC_URL}/publications`} component={TheBuildingPage}/>
 
-                                    <Route path={`${process.env.PUBLIC_URL}/apartments`} component={ApartmentsPage}/>
+                                    <Route path={`${process.env.PUBLIC_URL}/strategy`} component={ApartmentsPage}/>
                                     <Route path={`${process.env.PUBLIC_URL}/apartment/:id`} component={ApartmentSinglePage}/>
 
                                     <Route path={`${process.env.PUBLIC_URL}/blog`} component={BlogPage}/>
