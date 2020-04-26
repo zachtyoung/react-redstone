@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Home",
+        "link": "/",
+        "children": []
+    },
+    {
+        "name": "About Us",
+        "link": "/about-us",
+        "children": []
+    },
+    {
+        "name": "Strategy",
+        "link": "/apartments",
+        "children": []
+    },
+    {
+        "name": "Blog",
+        "link": "/blog",
+        "children": []
+    },
+    {
+        "name": "Contact",
+        "link": "/contact-us",
+        "children": []
+    },    {
+        "name": "More",
+        "link": "/the-building",
+        "children": [
+            {
+                "name": "Our Services",
+                "link": "/our-services",
+                "children": []
+            },
+            {
+                "name": "FAQ Page",
+                "link": "/faqs",
+                "children": []
+            },
+            {
+                "name": "Publications",
+                "link": "/the-building",
+                "children": []
+            },
+            {
+                "name": "Schwab Login",
+                "link": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?&kc=y&sim=y",
+                "children": []
+            }
+            
+        ]
+    }
+]
