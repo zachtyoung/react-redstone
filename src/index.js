@@ -57,6 +57,7 @@ class Root extends React.Component {
 
                                     <Route path={`${process.env.PUBLIC_URL}/blog`} component={BlogPage}/>
                                     <Route path={`${process.env.PUBLIC_URL}/news/:id`} component={SingBlogPage}/>
+                                    <Route path={`${process.env.PUBLIC_URL}/typo`} component={TypographyPage}/>
                                 </Layout>
                             </Switch>
                         </ScrollContext>
