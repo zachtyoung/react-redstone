@@ -22,7 +22,7 @@ class ApartmentSinglePage extends Component {
             <div className={`apartments-page-wrap`}>
                 <Breadcrumb title={item.title} parent={[{path: 'apartments', title: 'Apartments'}]}/>
                 <Helmet>
-                    <title>MaisonCo | {item.title}</title>
+                    <title>Redstone Advisors | {item.title}</title>
                 </Helmet>
                 <ContentWrap isBoxed={true}>
                     <div className="entry-image text-center">
