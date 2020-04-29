@@ -13,9 +13,11 @@ class ApartmentsPage extends Component {
                 <Helmet>
                     <title>Redstone Advisors | Strategy</title>
                 </Helmet>
-                <ContentWrap isBoxed={true}>
-                    <ApartmentArchiveBlock number={9}/>
-                </ContentWrap>
+      <ContentWrap>
+                   <p>Our objective is to maximize total return within established client guidelines and investment policy.</p>
+                   <p>Over time, total returns in fixed income are driven predominately by changes in the level of interest rates and changes in the slope and curvature of the yield curve.</p>
+           <p>We utilize a total return framework to construct efficient portfolios by isolating and analyzing the sensitivity of security and portfolio performance to changes in the level of interest rates and yield curve movements.</p>
+           </ContentWrap>
             </div>
         )
     }
