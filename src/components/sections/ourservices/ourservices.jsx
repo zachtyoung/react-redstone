@@ -7,19 +7,17 @@ class OurServicesSection extends Component {
         return (
             <div className="ourservices">
                 <div className="container">
-                    <Heading>our Services - Style 01</Heading>
+                    <Heading>Our Services</Heading>
                     <div className="row">
                         <div className="col-lg-4 col-md-6 d-flex">
                             <div className="featured-box style-2">
                                 <div className="featured-box-wrap">
                                     <div className="featured-box-top">
                                         <div className="featured-box-icon"><i className="opal-icon-map"></i></div>
-                                        <h3 className="featured-box-title text-uppercase">Flexible, Contemporary Spaces</h3>
+                                        <h3 className="featured-box-title text-uppercase">Lorem, ipsum dolor.</h3>
                                     </div>
                                     <div className="featured-box-bottom">
-                                        <p className="featured-box-description">We design and service
-                                            the next generation office building – one that feels more like a
-                                            full-service, lifestyle hotel</p>
+                                        <p className="featured-box-description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga, corporis? Odio temporibus dolor aspernatur non.</p>
                                     </div>
                                 </div>
                             </div>
@@ -29,10 +27,10 @@ class OurServicesSection extends Component {
                                 <div className="featured-box-wrap">
                                     <div className="featured-box-top">
                                         <div className="featured-box-icon"><i className="opal-icon-user"></i></div>
-                                        <h3 className="featured-box-title text-uppercase">Flexible, Contemporary Spaces</h3>
+                                        <h3 className="featured-box-title text-uppercase">Lorem, ipsum dolor.</h3>
                                     </div>
                                     <div className="featured-box-bottom">
-                                        <p className="featured-box-description">We are a team of 300 people who specialize in hospitality, technology, design, and production</p>
+                                        <p className="featured-box-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, excepturi.</p>
                                     </div>
                                 </div>
                             </div>
@@ -42,10 +40,10 @@ class OurServicesSection extends Component {
                                 <div className="featured-box-wrap">
                                     <div className="featured-box-top">
                                         <div className="featured-box-icon"><i className="opal-icon-coffee"></i></div>
-                                        <h3 className="featured-box-title text-uppercase">Flexible, Contemporary Spaces</h3>
+                                        <h3 className="featured-box-title text-uppercase">Lorem, ipsum dolor.</h3>
                                     </div>
                                     <div className="featured-box-bottom">
-                                        <p className="featured-box-description">By studying the science of catering to large groups of people, particularly in a business context</p>
+                                        <p className="featured-box-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem.</p>
                                     </div>
                                 </div>
                             </div>
@@ -57,10 +55,10 @@ class OurServicesSection extends Component {
                                 <div className="featured-box-wrap">
                                     <div className="featured-box-top">
                                         <div className="featured-box-icon"><i className="opal-icon-badge"></i></div>
-                                        <h3 className="featured-box-title text-uppercase">We’re Here To Make You Successful</h3>
+                                        <h3 className="featured-box-title text-uppercase">Lorem ipsum dolor sit amet consectetur.</h3>
                                     </div>
                                     <div className="featured-box-bottom">
-                                        <p className="featured-box-description">For each space we design, each technology item we carry, every meal we prepare, and every line item in the production schedule</p>
+                                        <p className="featured-box-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non reiciendis in perspiciatis debitis impedit sapiente blanditiis assumenda aperiam aliquid placeat!</p>
                                     </div>
                                 </div>
                             </div>
@@ -70,10 +68,10 @@ class OurServicesSection extends Component {
                                 <div className="featured-box-wrap">
                                     <div className="featured-box-top">
                                         <div className="featured-box-icon"><i className="opal-icon-like"></i></div>
-                                        <h3 className="featured-box-title text-uppercase">Human-Centered Design Friendly Spaces</h3>
+                                        <h3 className="featured-box-title text-uppercase">Lorem ipsum dolor sit.</h3>
                                     </div>
                                     <div className="featured-box-bottom">
-                                        <p className="featured-box-description">Our design philosophy and continuous improvement methodology aims to enhance the experience of every user of our spaces.</p>
+                                        <p className="featured-box-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque impedit voluptates doloribus consequatur repellat?</p>
                                     </div>
                                 </div>
                             </div>
@@ -83,10 +81,10 @@ class OurServicesSection extends Component {
                                 <div className="featured-box-wrap">
                                     <div className="featured-box-top">
                                         <div className="featured-box-icon"><i className="opal-icon-config"></i></div>
-                                        <h3 className="featured-box-title text-uppercase">Cutting-Edge Technology</h3>
+                                        <h3 className="featured-box-title text-uppercase">Lorem, ipsum dolor.</h3>
                                     </div>
                                     <div className="featured-box-bottom">
-                                        <p className="featured-box-description">Our meeting and conference technology is completely integrated within all of our conference centers and meeting spaces. </p>
+                                        <p className="featured-box-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum rem enim laborum reiciendis cum sint magnam nam pariatur fuga. Animi.</p>
                                     </div>
                                 </div>
                             </div>

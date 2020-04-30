@@ -46,7 +46,7 @@ class ApartmentsPlansSection extends Component {
                             {this.data.map((data, index) =>
                                 <TabPanel key={index}>
                                     <div className="row">
-                                        <div className="col-md-6">
+                                        <div className="col-lg-6">
                                             <p>{data.description}</p>
                                             <ul className="apartment-items">
                                                 {data.attributes.map((attr, i) =>
@@ -57,13 +57,10 @@ class ApartmentsPlansSection extends Component {
                                                 )}
                                             </ul>
                                             <div className="apartment_button">
-                                                <button onClick={() => this.setState({open: true})} className="btn btn-outline-primary w-100">Schedule a visit</button>
+                                                <button onClick={() => this.setState({open: true})} className="btn btn-outline-primary w-100">Learn More</button>
                                             </div>
                                         </div>
                                         <div className="col-md-6">
-                                            <div className="apartment-img">
-                                                <img className="img-fluid" src={data.image} alt={data.title}/>
-                                            </div>
                                         </div>
                                     </div>
                                 </TabPanel>
