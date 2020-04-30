@@ -10,23 +10,23 @@ class OurTeamSection extends Component {
                     <Heading>OUR TEAM</Heading>
                     <div className="row no-gutters">
                         <div className="col-lg-3 col-md-6 col-sm-6">
-                            <OurTeamBlock img="/assets/imagewebp/about/team_1.webp" name={`Connor Flores`} job={`JV PROPERTY MANAGEMENT`} position={`top`}>
-                                You may be a skillful, effective employer but if you don’t trust your personnel and the opposite, then the chances of
+                            <OurTeamBlock img="/assets/imagewebp/about/team_1.webp" name={`Troy Young`} job={`Senior Portfolio Manager`} position={`top`}>
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto, tempora!
                             </OurTeamBlock>
                         </div>
                         <div className="col-lg-3 col-md-6 col-sm-6">
-                            <OurTeamBlock img="/assets/imagewebp/about/team_2.webp" name={`CAROLINE VAUGHN`} job={`PROJECT MANAGER`} position={`bottom`}>
-                                You may be a skillful, effective employer but if you don’t trust your personnel and the opposite, then the chances of
+                            <OurTeamBlock img="/assets/imagewebp/about/team_2.webp" name={`Gary Gamm`} job={`Managing Director`} position={`bottom`}>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, nobis! Nostrum assumenda explicabo magni architecto!
                             </OurTeamBlock>
                         </div>
                         <div className="col-lg-3 col-md-6 col-sm-6">
-                            <OurTeamBlock img="/assets/imagewebp/about/team_3.webp" name={`WILLIE TODD`} job={`SENIOR ARCHITECT`} position={`top`}>
-                                You may be a skillful, effective employer but if you don’t trust your personnel and the opposite, then the chances of
+                            <OurTeamBlock img="/assets/imagewebp/about/team_3.webp" name={`Marc Vincent`} job={`Managing Director`} position={`top`}>
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia quia, facere blanditiis asperiores necessitatibus ipsum. Corporis, dolor dolore. Ad, autem.
                             </OurTeamBlock>
                         </div>
                         <div className="col-lg-3 col-md-6 col-sm-6">
-                            <OurTeamBlock img="/assets/imagewebp/about/team_4.webp" name={`JOSIE MAXWELL`} job={`PROJECT COORDINATOR`} position={`bottom`}>
-                                You may be a skillful, effective employer but if you don’t trust your personnel and the opposite, then the chances of
+                            <OurTeamBlock img="/assets/imagewebp/about/team_4.webp" name={`Patrica Statham`} job={`Portfolio Manager`} position={`bottom`}>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut voluptatem nulla, quod explicabo reiciendis corrupti quam doloribus nemo.
                             </OurTeamBlock>
                         </div>
                     </div>
