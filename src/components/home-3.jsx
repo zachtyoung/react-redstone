@@ -23,7 +23,7 @@ class Home3 extends Component {
                                 <div className="col-xl-3 col-md-6">
                                     <ImageBox
                                         subTitle=""
-                                        title="Section 1"
+                                        title="WHY BONDS?"
                                         bgImage={`${process.env.PUBLIC_URL}/assets/imagewebp/home-3/the-building.webp`}
                                     >
                                     </ImageBox>
@@ -31,7 +31,7 @@ class Home3 extends Component {
                                 <div className="col-xl-3 col-md-6">
                                     <ImageBox
                                         subTitle=""
-                                        title="Section 2"
+                                        title="WHY REDSTONE?"
                                         bgImage={`${process.env.PUBLIC_URL}/assets/imagewebp/home-3/amenities.webp`}
                                     >
                                     </ImageBox>
@@ -39,7 +39,7 @@ class Home3 extends Component {
                                 <div className="col-xl-3 col-md-6">
                                     <ImageBox
                                         subTitle=""
-                                        title="Section 3"
+                                        title="WHY NOW?"
                                         bgImage={`${process.env.PUBLIC_URL}/assets/imagewebp/home-3/neighbourhood.webp`}
                                     >
                                     </ImageBox>
@@ -47,7 +47,7 @@ class Home3 extends Component {
                                 <div className="col-xl-3 col-md-6">
                                     <ImageBox
                                         subTitle=""
-                                        title="Section 4"
+                                        title="WHY NOT?"
                                         bgImage={`${process.env.PUBLIC_URL}/assets/imagewebp/home-3/the-modern.webp`}
                                     >
                                     </ImageBox>
