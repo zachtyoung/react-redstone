@@ -13,8 +13,9 @@ class ImageBox extends Component {
                     </div>
                 </div>
                 <div className="image-box-content">
+                <h2 className="title text-white text-uppercase">{title}</h2>
                     <div className="subtitle text-primary text-uppercase mb-3">{subTitle}</div>
-                    <h2 className="title text-white text-uppercase">{title}</h2>
+                    
                 </div>
             </div>
         )
