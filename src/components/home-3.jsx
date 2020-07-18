@@ -8,6 +8,7 @@ import OfficeSpaceSection from "./sections/office-space/office-space";
 import CallToActionSection from "./sections/caltoaction/caltoaction";
 import BlogBlockGridStyle1 from "./common/blog/blog";
 import BlogBlockGridStyle2 from "./common/blog/blog1";
+import {Link} from 'react-router-dom';
 
 class Home3 extends Component {
     render() {
@@ -21,47 +22,55 @@ class Home3 extends Component {
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-xl-3 col-md-6">
+                                    <Link to={`${process.env.PUBLIC_URL}/strategy`}>
                                     <ImageBox
                                         subTitle="Bonds are uniquely suited to meet investors' needs"
                                         title="WHY BONDS?"
                                         bgImage={`${process.env.PUBLIC_URL}/assets/imagewebp/home-3/the-building.webp`}
                                     >
                                     </ImageBox>
+                                    </Link>
                                 </div>
                                 <div className="col-xl-3 col-md-6">
+                                <Link to={`${process.env.PUBLIC_URL}/about-us`}>
                                     <ImageBox
                                         subTitle="As Specialists, we are uniquely suited to actively manage bond portfolios"
                                         title="WHY REDSTONE?"
                                         bgImage={`${process.env.PUBLIC_URL}/assets/imagewebp/home-3/amenities.webp`}
                                     >
                                     </ImageBox>
+                                    </Link>
                                 </div>
                                 <div className="col-xl-3 col-md-6">
+                                <Link to={`${process.env.PUBLIC_URL}/blog`}>
                                     <ImageBox
                                         subTitle="Since uncertainty is constant, now is always the right time to include bonds in a diversified investment strategy"
                                         title="WHY NOW?"
                                         bgImage={`${process.env.PUBLIC_URL}/assets/imagewebp/home-3/neighbourhood.webp`}
                                     >
                                     </ImageBox>
+                                    </Link>
                                 </div>
                                 <div className="col-xl-3 col-md-6">
+                                <Link to={`${process.env.PUBLIC_URL}/contact-us`}>
                                     <ImageBox
                                         subTitle="Request a consultation or portfolio review with an investment professional"
                                         title="WHY NOT?"
                                         bgImage={`${process.env.PUBLIC_URL}/assets/imagewebp/home-3/the-modern.webp`}
                                     >
                                     </ImageBox>
+                                    </Link>
                                 </div>
                             </div>
                         </div>
                     </div>
 
                 </div>
-                <div className="section-wrapper">
-                    {/* Apartment Plans */}
+                {/* <div className="section-wrapper">
+                    
                         <OurValuesSection/>
-                </div>
-                <div className="section-wrapper pb-0">
+                </div> */}
+                <div className="section-wrapper p-0">
                     <ExploreAmenitiesSection/>
                 </div>
                 <div className="section-wrapper p-0">

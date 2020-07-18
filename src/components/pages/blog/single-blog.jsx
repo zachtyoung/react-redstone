@@ -10,7 +10,7 @@ class SingleBlogPage extends Component {
         return (
             <div className={`single-blog-wrap`}>
                 <Helmet>
-                    <title>MaisonCo | {item.title}</title>
+                    <title>Redstone| {item.title}</title>
                 </Helmet>
                 <Breadcrumb title={item.title} parent={[{path: 'blog', title: 'Blog'}]}/>
                 <ContentWrap isBoxed={true}>
