@@ -24,31 +24,16 @@
         "link": "/contact-us",
         "children": []
     },    {
-        "name": "More",
+        "name": "Client Center",
         "link": "",
         "children": [
             {
-                "name": "Approach",
-                "link": "/approach",
-                "children": []
-            },
-            {
-                "name": "Our Services",
-                "link": "/our-services",
-                "children": []
-            },
-            {
-                "name": "FAQ Page",
-                "link": "/faqs",
-                "children": []
-            },
-            {
-                "name": "Publications",
-                "link": "/publications",
-                "children": []
-            },
-            {
                 "name": "Schwab Login",
+                "link": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?&kc=y&sim=y",
+                "children": []
+            },
+            {
+                "name": "Clearwater Login",
                 "link": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?&kc=y&sim=y",
                 "children": []
             }

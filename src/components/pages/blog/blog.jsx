@@ -40,7 +40,7 @@ class BlogPage extends Component {
         return (
             <div className={`blog-page-wrap`}>
                 <Helmet>
-                    <title>MaisonCo | Blog Page</title>
+                    <title>Redstone | Blog Page</title>
                 </Helmet>
                 <Breadcrumb title={'Blog'}/>
                 <ContentWrap sidebar={`blog`} isBoxed={true} position={`right`}>
