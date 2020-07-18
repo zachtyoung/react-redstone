@@ -9,7 +9,6 @@ import CallToActionSection from "./sections/caltoaction/caltoaction";
 import BlogBlockGridStyle1 from "./common/blog/blog";
 import BlogBlockGridStyle2 from "./common/blog/blog1";
 import {Link} from 'react-router-dom';
-
 class Home3 extends Component {
     render() {
         return (
